@@ -2,5 +2,6 @@
   "name": "Fidelio",
   "description": "We are focused to give our little contribution to decentralize Cardano and to make Blockchain strong and secure",
   "ticker": "FIDE",
-  "homepage": "https://fideliostakepool.github.io"
+  "homepage": "https://fideliostakepool.github.io",
+  "verif": "41fed0a2a59ddc23203baf261677e10e",
   }
